@@ -10,6 +10,7 @@ body {
     background-color: #1f1d2b;
     margin: 0;
     height: unset;
+    overflow: hidden;
 }
 
 .pink-bg {
