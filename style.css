@@ -58,6 +58,7 @@ body {
     background-color: #1f1d2bb4;
     backdrop-filter: blur(30px);
     -webkit-backdrop-filter: blur(30px);
+    height: 100%;
 }
 
 .main-nav {
